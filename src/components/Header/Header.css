@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1C2B35;
+    height: 80px;
+    padding: 0px 100px;
+}
+
+.nav a {
+    color: white;
+    margin: 0 20px;
+}
+
+.nav a:hover {
+    color: tomato;
+}
